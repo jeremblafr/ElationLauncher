@@ -1,7 +1,7 @@
 {
-  "name": "helioslauncher",
+  "name": "elationlauncher",
   "version": "1.8.0",
-  "productName": "Helios Launcher",
+  "productName": "ELATION Launcher",
   "description": "Modded Minecraft Launcher",
   "author": "Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
@@ -48,6 +48,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/jeremblafr/ElationLauncher.git"
   }
 }
